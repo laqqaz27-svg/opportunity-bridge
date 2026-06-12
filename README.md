@@ -4,7 +4,8 @@ Opportunity Bridge is a full-stack platform that connects job seekers, employers
 
 ## Live Application
 
-Frontend: https://opportunity-bridge.onrender.com
+ Frontend https://opportunity-bridge-1.onrender.com
+ 
 
 ## Core Features
 
